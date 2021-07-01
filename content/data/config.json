@@ -28,5 +28,6 @@
             "style": "link"
         }
     ],
-    "domain": "https://purple-olive-df005.netlify.app"
+    "domain": "https://purple-olive-df005.netlify.app",
+    "footer_text": "Hola"
 }
