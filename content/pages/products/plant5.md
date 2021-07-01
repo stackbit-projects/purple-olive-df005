@@ -6,7 +6,7 @@ title: Vestibulum eget
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/azul.jpg
+default_thumbnail_image: images/030.jpg
 default_original_image: images/plant5-lg.jpg
 featured: true
 order: 5
