@@ -11,11 +11,7 @@ sections:
       # Soraks
 
       Vajillas únicas artesanales hechas  y pintadas a mano.  
-    actions:
-      - title: See all items
-        url: /store
-        arrow: true
-        style: primary
+    actions: []
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
