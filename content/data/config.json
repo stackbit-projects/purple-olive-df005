@@ -26,13 +26,6 @@
             "title": "About me",
             "url": "/faq",
             "style": "link"
-        },
-        {
-            "title": "lorem-ipsum",
-            "url": "#",
-            "style": "primary",
-            "arrow": false,
-            "type": "action"
         }
     ],
     "domain": "https://purple-olive-df005.netlify.app"
