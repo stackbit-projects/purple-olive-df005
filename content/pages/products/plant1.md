@@ -5,7 +5,6 @@ title: Nulla suscipit
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 0
-category: content/pages/category/bigplants.md
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
