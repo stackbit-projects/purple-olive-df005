@@ -9,7 +9,7 @@ description: >-
 default_thumbnail_image: images/030.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
-order: 1
+order: 0
 category: content/pages/category/bigplants.md
 seo:
   title: Nulla suscipit
