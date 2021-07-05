@@ -24,17 +24,8 @@ sections:
       - content/pages/products/plant7.md
   - section_id: lorem-ipsum
     background_image_opacity: 0
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      *
     actions: []
     type: hero_section
   - type: featured_categories_section
